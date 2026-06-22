@@ -4,19 +4,15 @@
 To write a C Program to Print a right triangle star Pattern
 
 ## Algorithm
-1.Start.
-2.Declare the variables i,j,k,n.
-3.Prompt the user to enter a value.
-4.Read the value using scanf.
-5.Enter number of rows and columns.
-6.End.
+Start.
+Declare the variables i,j,k,n.
+Prompt the user to enter a value.
+Read the value using scanf.
+Enter number of rows and columns.
+End. 
+
 ## Program:
 ```
-/*
-Program to Print a right triangle star Pattern
-Developed by: Santhosh kumar B
-RegisterNumber:  212223060249
-*/
 #include <stdio.h> 
 int main() { 
     int i, j, rows; 
@@ -31,8 +27,8 @@ int main() {
 ```
 
 ## Output:
-<img width="380" height="274" alt="image" src="https://github.com/user-attachments/assets/5b43f670-f0fd-47d1-a6c3-280c4b823470" />
 
+<img width="333" height="163" alt="image" src="https://github.com/user-attachments/assets/196f4333-20bc-429f-8493-f2eeffc3a8b2" />
 
 
 ## Result:
